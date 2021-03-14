@@ -12,6 +12,3 @@ I'm a student {backend, frontend and mobile} developer.
 - 🌱 Currently I'm majoring in Systems Development Analysis
 - 💞️ I seek to grow in my area to transform people's lives through technology.
 - 📫 You can find out more about me on my website: 💻[Website](https://tony-cv.netlify.app)
-
-
-http://linkedin.com/in/tony-sz-silva
