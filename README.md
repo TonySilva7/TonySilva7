@@ -11,4 +11,4 @@ I'm a student {backend, frontend and mobile} developer.
 - 🎓 I am already graduated in another area, and I decided to change careers
 - 🌱 Currently I'm majoring in Systems Development Analysis
 - 💞️ I seek to grow in my area to transform people's lives through technology.
-- 📫 You can find out more about me on my website: 💻[Website](https://tony-cv.netlify.app)
+- 📫 You can find out more about me on my 💻[Website](https://tony-cv.netlify.app).
