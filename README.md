@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Tony! :D
 
-<!--
-**TonySilva7/TonySilva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TonyDev77)](https://github.com/TonyDev77)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tony-sz-silva/)](https://www.linkedin.com/in/tony-sz-silva/)
 
-Here are some ideas to get you started:
+### About me
+I'm a student {backend, frontend and mobile} developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I'm Tony
+- 👀 I'm interested in front and back end development
+- 🎓 I am already graduated in another area, and I decided to change careers
+- 🌱 Currently I'm majoring in Systems Development Analysis
+- 💞️ I seek to grow in my area to transform people's lives through technology.
+- 📫 You can find out more about me on my website: 💻[Website](https://tony-cv.netlify.app)
+
+
+http://linkedin.com/in/tony-sz-silva
