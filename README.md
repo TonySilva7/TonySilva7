@@ -1,14 +1,26 @@
-# Hi, I'm Tony! :D
+# Hi there, I'm Tony! 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TonyDev77)](https://github.com/TonyDev77)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tony-sz-silva/)](https://www.linkedin.com/in/tony-sz-silva/)
 
-### About me
-I'm a student {backend, frontend and mobile} developer.
+## About Me
+I'm a passionate student developer with a focus on backend, frontend, and mobile development.
 
-- 👋 Hi, I'm Tony
-- 👀 I'm interested in web frontend, mobile frontend and backend development
-- 🎓 I have a degree in Systems Analysis and Development. Currently finishing an MBA in Software Engineering from the UTFPR - Universidade Tecnológica Federal do Paraná.
-- 💻 I work with a senior developer at Arpia Tecnologia.
-- 💞️ I seek to grow in my area to transform people's lives through technology.
-- 📫 You can find out more about me on my 🌐 [Website](https://tony-cv.netlify.app).
+- 🎓 Graduated in Systems Analysis and Development.
+- 📚 Currently pursuing an MBA in Software Engineering at UTFPR - Universidade Tecnológica Federal do Paraná.
+- 💼 Working as a Junior Developer at Arpia Tecnologia.
+- 💻 Tech enthusiast exploring the realms of web and mobile technologies.
+- 🚀 Striving to make a positive impact through innovative solutions.
+
+## Tech Stack
+- 💻 Backend: Node.js, Express
+- 🌐 Frontend: React, HTML, CSS
+- 📱 Mobile: React Native
+- 🛠️ Tools: Git, VS Code, Docker
+- 🧠 Always eager to learn and explore new technologies.
+
+## Let's Connect
+- 🌐 [Personal Website](https://tony-cv.netlify.app)
+- 📫 Email: tony.deve7oper@gmail.com
+
+Feel free to explore my repositories and connect with me! 😊
